@@ -1,0 +1,30 @@
+_repo: Tales-of-Old-Japan_13015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Redesdale, Algernon Bertram Freeman-Mitford, Baron
+    aliases:
+    - Freeman-Mitford, Algernon Bertram
+    - Mitford, Algernon Bertram
+    birthdate: 1837
+    deathdate: 1916
+    gutenberg_agent_id: '4779'
+    url: http://www.gutenberg.org/2009/agents/4779
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Bertram_Freeman-Mitford,_1st_Baron_Redesdale
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2004-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Folklore -- Japan'
+- !lcc 'GR'
+- GITenberg
+title: Tales of Old Japan
+url: http://www.gutenberg.org/ebooks/13015
