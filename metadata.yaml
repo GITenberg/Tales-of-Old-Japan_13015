@@ -1,5 +1,8 @@
 _repo: Tales-of-Old-Japan_13015
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Redesdale, Algernon Bertram Freeman-Mitford, Baron
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4779
     wikipedia: http://en.wikipedia.org/wiki/Algernon_Bertram_Freeman-Mitford,_1st_Baron_Redesdale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13015#Tales-of-Old-Japan
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2004-07-24'
 gutenberg_type: Text
